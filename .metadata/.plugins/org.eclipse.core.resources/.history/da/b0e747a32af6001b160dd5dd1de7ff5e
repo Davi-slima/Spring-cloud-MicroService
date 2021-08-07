@@ -1,0 +1,5 @@
+package com.digitalinnovation.experts.productcatalog.ProductCatalog.config;
+
+public class ElasticSearchConfig {
+
+}

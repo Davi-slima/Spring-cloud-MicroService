@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.data.elasticsearch.repository.config.EnableElasticsearchRepositories"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.springframework.data.elasticsearch.config.AbstractElasticsearchConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.data.elasticsearch.client.ClientConfiguration"/>
+    <fullyQualifiedTypeName name="org.elasticsearch.client.RestHighLevelClient"/>
+    <fullyQualifiedTypeName name="org.springframework.data.elasticsearch.client.RestClients"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.core.convert.support.DefaultConversionService"/>
+</qualifiedTypeNameHistroy>
